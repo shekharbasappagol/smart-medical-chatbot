@@ -37,33 +37,32 @@ This project is an intelligent healthcare assistant that helps users understand 
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](user-home.png)
+![Home](screenshots/user-home.png)
 
 ### 🔐 User Login
-![Login](user-login.png)
+![Login](screenshots/user-login.png)
 
 ### 📝 User Registration
-![Register](user-registration.png)
+![Register](screenshots/user-registration.png)
 
 ### 💬 Chat Interface
-![Chat](chat.png)
+![Chat](screenshots/chat.png)
 
 ### 🤖 Chat Responses
-![Chat Response 1](chat-response-1.png)
-![Chat Response 2](chat-response-2.png)
+![Chat Response 1](screenshots/chat-response-1.png)
+![Chat Response 2](screenshots/chat-response-2.png)
 
 ### 🩺 Disease Prediction
-![Disease Prediction](disease-prediction.png)
+![Disease Prediction](screenshots/disease-prediction.png)
 
 ### 🚨 Emergency Advice
-![Emergency Advice](emergency-advice.png)
+![Emergency Advice](screenshots/emergency-advice.png)
 
 ### 🍎 Food Recommendation
-![Food](food-recommendation.png)
+![Food](screenshots/food-recommendation.png)
 
 ### 🧘 Lifestyle Advice
-![Lifestyle](lifestyle-advice.png)
-
+![Lifestyle](screenshots/lifestyle-advice.png)
 ---
 
 ## ⚙️ How It Works
